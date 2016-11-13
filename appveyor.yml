@@ -7,4 +7,4 @@ before_build:
     dotnet restore
 build:
   verbosity: minimal
-artifacts: FastPokeMap\**\**\**.appxbundle
+artifacts: \**\**.appxbundle
